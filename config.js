@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "m luoi toi co nao?",                          // For the love meter
-            startText: "tam",                                   // Text before the percentage
+            startText: "tam tam",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
